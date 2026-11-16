@@ -35,5 +35,7 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=ashishjadhav123&show_icons=true)<br/>
+![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ashishjadhav123)<br/>
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ashishjadhav123)
 
 

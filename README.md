@@ -34,8 +34,8 @@
 - 🗄️ SQL Server & Python Data Automation
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=ashishjadhav123&show_icons=true)
 ![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ashishjadhav123)
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ashishjadhav123)
+![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=ashishjadhav123&show_icons=true)
 
 
